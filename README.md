@@ -76,9 +76,11 @@ If you find this project useful, feel free to dump a tiny bit of crypto in my wa
 ## 
 
 ZEC: 
+
 t1SFSSr6Da8jVLCq4GMqvuWtkBgLN6ssFho
 ## 
 BTC: 
+
 bc1q7q2ewrhw5wcmuc3gsd54vdkdywx60zamfj93qn
 
 ## 
