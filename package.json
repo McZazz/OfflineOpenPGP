@@ -1,0 +1,22 @@
+{
+  "name": "nwjs_app_template",
+  "main": "index.html",
+  "chromium-args": "--enable-logging=stderr",
+  "window": {
+    "frame": false,
+    "position": "center",
+    "height": 760,
+    "width": 1280
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "appdata-path": "^1.0.0",
+    "openpgp": "^5.5.0"
+  }
+}
