@@ -8,6 +8,11 @@ You are not fully protected if you are online while using this. You are not full
 
 ![image](https://raw.githubusercontent.com/McZazz/OfflineOpenPGP/main/incoming.jpg "incoming page of OfflineOpenPGP")
 
+## 
+![image](https://github.com/McZazz/OfflineOpenPGP/blob/main/outgoing.jpg "outgoing page of OfflineOpenPGP")
+
+## 
+
 ## Install instructions: 
 
 ## Windows:
