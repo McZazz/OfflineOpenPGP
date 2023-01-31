@@ -60,6 +60,7 @@ copy the contents of the "src" folder of Offline Open PGP into the nwjs top leve
 Make sure you have NPM installed, make sure you are still in the top level folder (package.json is present) and run:
 npm install
 
+Run either of the following commands to start it:
 (separate src inside nwjs folder)
 ./nw .
 
