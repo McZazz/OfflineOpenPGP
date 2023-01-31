@@ -33,15 +33,18 @@ C:\Users\[your-windows-user-name]\AppData\Roaming\OfflineOpenPgp
 ## Mac:
 go to nwjs.io, and download the "Normal" version of nwjs for Mac
 
-Place the app in your applications folder and open a terminal in the Offline Open PGP application folder.
+Place the unpacked nwjs app directory in your applications folder.
 
-Set Mac titlebar buttons in main.js by finding this: "globals['is_mac'] = false;" and changing it to this:
+The OfflineOpenPGP source files can be dumped in the nwjs top level folder, or kept in a separate location.
+
+In the OfflineOpenPGP src directory, set Mac titlebar buttons in main.js by finding this: "globals['is_mac'] = false;" and changing it to this:
 "globals['is_mac'] = true;"
 
-Make sure you have NPM installed, and enter the src folder with package.json and run:
+Make sure you have NPM installed, and inside the OfflineOpenPGP src folder with package.json run:
 npm install
 
-While inside the folder with the nwjs executable app, run the following command to start it, with the path pointing to the src folder in the Offline Open PGP folder:
+(the following will be what you do to start the app each time):
+Open a terminal inside the nwjs executable app directory, run the following command to start it, with the path pointing to the src folder in the Offline Open PGP folder:
 open -n -a nwjs --args "[path/to/src]"
 
 Example (src is separate, on the desktop):
