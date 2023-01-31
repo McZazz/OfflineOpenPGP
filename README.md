@@ -1,6 +1,6 @@
 ### Desktop app providing completely offline encrypted Open PGP message writing, message encryption, decryption and contacts management. Utilizes NWJS, Openpgpjs, and Appdata-path.
 
-Encrypt, decrypt, manage public keys of your contacts and manage multiple keysets of your own, completely in text format. You can see all your keys, all the public keys of your contacts and edit them directly. This data is saved as text in json files, nothing is hidden from you. 
+Encrypt and decrypt messages, manage public keys of your contacts and manage multiple keysets of your own, completely in text format. You can see all your keys, all the public keys of your contacts and edit them directly. This data is saved as text in json files, nothing is hidden from you. 
 
 No plugins, no links to any services are needed, do it all in text offline so you have control of your data. Public keys are safe to be sent over any service, encrypted messages are safe to be sent over any service. 
 
