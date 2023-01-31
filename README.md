@@ -65,11 +65,14 @@ copy the contents of the "src" folder of Offline Open PGP into the nwjs top leve
 Make sure you have NPM installed, make sure you are still in the top level folder (package.json is present) and run:
 npm install
 
-Run either of the following commands to start it:
-(separate src inside nwjs folder)
+Run either of the following commands to start it: 
+
+(separate src inside nwjs folder) 
+
 ./nw .
 
-(all source files inside same nwjs folder)
+(all source files inside same nwjs folder) 
+
 ./nw
 
 Your saved data can be found in your system level user data directory, inside a directory named "OfflineOpenPgp", likely here: "/home/dev2/.config/OfflineOpenPgp". This was tested on Linux Mint, however other versions of Linux may not be friendly with this concenpt so if it is not saving anything, you will have to modify the source to point to a hardcoded directoy.
