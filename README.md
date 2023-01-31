@@ -70,6 +70,19 @@ npm install
 
 Your saved data can be found in your system level user data directory, inside a directory named "OfflineOpenPgp". This was tested on Linux Mint, however other versions of Linux may not be friendly with this concenpt so if it is not saving anything, you will have to modify the source to point to a hardcoded directoy.
 
+## Development:
+This project is written 100% in object oriented Vanilla JS.
+If you find this project useful, feel free to dump a tiny bit of crypto in my wallet:
+
+## 
+
+ZEC:
+t1SFSSr6Da8jVLCq4GMqvuWtkBgLN6ssFho
+## 
+BTC:
+bc1q7q2ewrhw5wcmuc3gsd54vdkdywx60zamfj93qn
+
+## 
 
 ## Dependencies:
               nwjs
