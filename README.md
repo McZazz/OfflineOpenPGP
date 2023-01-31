@@ -41,7 +41,7 @@ Set Mac titlebar buttons in main.js by finding this: "globals['is_mac'] = false;
 Make sure you have NPM installed, and enter the src folder with package.json and run:
 npm install
 
-While inside the folder with the nwjs executable app, Run the following command to start it, with the path pointing to the src folder in the Offline Open PGP folder:
+While inside the folder with the nwjs executable app, run the following command to start it, with the path pointing to the src folder in the Offline Open PGP folder:
 open -n -a nwjs --args "[path/to/src]"
 
 Example (src is separate, on the desktop):
