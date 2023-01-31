@@ -67,18 +67,11 @@ Your saved data can be found in your system level user data directory, inside a 
 
 
 ## Dependencies:
-
-########################################
               nwjs
 https://github.com/nwjs/nw.js
-########################################
 
-########################################
               appdata-path
 https://github.com/demurgos/appdata-path
-########################################
 
-########################################
                 openpgpjs
 https://github.com/openpgpjs/openpgpjs
-########################################
