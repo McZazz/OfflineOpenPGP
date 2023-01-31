@@ -1,4 +1,4 @@
-### Completely offline encrypted message writing, message encryption, decryption and contacts management. 
+### Completely offline encrypted message writing, message encryption, decryption and contacts management. Utilizes NWJS, Openpgpjs, and Appdata-path.
 
 Encrypt, decrypt, manage public keys of your contacts and manage multiple keysets of your own, completely in text format. You can see all your keys, all the public keys of your contacts and edit them directly. This data is saved as text in json files, nothing is hidden from you. 
 
