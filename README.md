@@ -6,7 +6,7 @@ No plugins, no links to any services are needed, do it all in text offline so yo
 
 You are not fully protected if you are online while using this. You are not fully protected if your os / device is already hacked. You are not fully protected if you are using this on the same computer you use to access the internet. Private keys and their passwords are NOT safe to send at all. 
 
-![image](/OfflineOpenPGP/main/incoming.jpg)
+![image](https://raw.githubusercontent.com/McZazz/OfflineOpenPGP/main/incoming.jpg)
 
 ## Install instructions: 
 
