@@ -1,16 +1,16 @@
-**Completely offline encrypted message writing, message encryption and decryption and contacts management.
+### Completely offline encrypted message writing, message encryption and decryption and contacts management. 
 
-Encrypt, decrypt, manage public keys of your contacts and manage multiple keysets of your own, completely in text format. You can see all your keys, all the public keys of your contacts and edit them directly. This data is saved as text in json files, nothing is hidden from you.
+Encrypt, decrypt, manage public keys of your contacts and manage multiple keysets of your own, completely in text format. You can see all your keys, all the public keys of your contacts and edit them directly. This data is saved as text in json files, nothing is hidden from you. 
 
-No plugins, no links to any services are needed, do it all in text offline so you have control of your data. Public keys are safe to be sent over any service, encrypted messages are safe to be sent over any service.
+No plugins, no links to any services are needed, do it all in text offline so you have control of your data. Public keys are safe to be sent over any service, encrypted messages are safe to be sent over any service. 
 
-You are not fully protected if you are online while using this. You are not fully protected if your os / device is already hacked. You are not fully protected if you are using this on the same computer you use to access the internet. Private keys and their passwords are NOT safe to send at all.
+You are not fully protected if you are online while using this. You are not fully protected if your os / device is already hacked. You are not fully protected if you are using this on the same computer you use to access the internet. Private keys and their passwords are NOT safe to send at all. 
 
 
 
-Install instructions:
+## Install instructions: 
 
-Windows:
+## Windows:
 Go to nwjs.io, and download the "Normal" version of nwjs for Windows.
 
 Copy the contents of the "src" folder of Offline Open PGP into the nwjs top level folder.
@@ -25,7 +25,7 @@ C:\Users\[your-windows-user-name]\AppData\Roaming\OfflineOpenPgp
 
 
 
-Mac:
+## Mac:
 go to nwjs.io, and download the "Normal" version of nwjs for Mac
 
 Place the app in your applications folder and open a terminal in the Offline Open PGP application folder.
@@ -46,7 +46,7 @@ Your saved data can be found in your system level user data folder, inside a dir
 
 
 
-Linux:
+## Linux:
 go to nwjs.io, and download the "Normal" version of nwjs for Linux.
 Extract it to the directory of your choice.
 
@@ -66,7 +66,7 @@ npm install
 Your saved data can be found in your system level user data directory, inside a directory named "OfflineOpenPgp". This was tested on Linux Mint, however other versions of Linux may not be friendly with this concenpt so if it is not saving anything, you will have to modify the source to point to a hardcoded directoy.
 
 
-Dependencies:
+## Dependencies:
 
 ########################################
               nwjs
