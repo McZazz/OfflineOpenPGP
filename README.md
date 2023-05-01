@@ -2,7 +2,7 @@
 
 Encrypt and decrypt messages, manage public keys of your contacts and manage multiple keysets of your own, completely in text format. You can see all your keys, all the public keys of your contacts and edit them directly. This data is saved as text in json files, nothing is hidden from you. 
 
-No plugins, no links to any services are needed, do it all in text offline so you have control of your data. Public keys are safe to be sent over any service, encrypted messages are safe to be sent over any service. No safety is guaranteed, so don't trust your device, nor your software, verify that it works instead.
+No plugins, no links to any services are needed, do it all in text offline so you have control of your data. Public keys are safe to be sent over any service, encrypted messages are safe to be sent over any service, assuming that the OpenPGPJS library is not and does not become garbage. No safety is guaranteed, so don't trust your device, nor your software, verify that it works instead.
 
 You are not fully protected if you are online while using this. You are not fully protected if your os / device is already hacked. You are not fully protected if you are using this on the same computer you use to access the internet. Private keys and their passwords are NOT safe to send at all. 
 
@@ -79,7 +79,7 @@ Your saved data can be found in your system level user data directory, inside a 
 
 ## Development:
 This project is written 100% in object oriented Vanilla JS.
-If you find this project useful, feel free to dump a tiny bit of crypto in my wallet:
+If you find this project useful, feel free to dump a tiny bit of crypto in my wallet. Future public releases of this app are not guaranteed.
 
 ## 
 
